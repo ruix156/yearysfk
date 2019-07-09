@@ -309,7 +309,7 @@ class index extends Controller
      */
     public function qrcode()
     {
-        $url = $this->req->get('url') ? $this->req->get('url') : 'http://phpke.cn';
+        $url = $this->req->get('url') ? $this->req->get('url') : '当面付配置有误，请仔细填写';
         $qrCode = new QrCode($url);
         header('Content-Type: '.$qrCode->getContentType());
         echo $qrCode->writeString();
