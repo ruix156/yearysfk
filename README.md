@@ -2,7 +2,7 @@
 专门为个人或小型企业提供在线售卡，订单处理系统
 
 ### 如果您有更高的需求？请尝试购买我们的专业版
-专业版demo地址：[http://demo.shanhufk.com](http://demo.shanhufk.com)  
+专业版地址：[http://www.shanhufk.com](http://www.shanhufk.com)  
 购买联系方式：QQ：53331323  备注：购买专业版    
 
 ### 程序使用要求？
