@@ -31,7 +31,7 @@ $data = [
 try {
     $str = Charge::run(Config::ALI_CHANNEL_WEB, $config, $data);
     $payDao->res->redirect($str);
-} catch (PayException $e) {
-    echo $e->errorMessage();
+} catch (Exception $e) {
+    echo $e->getMessage();
     exit;
 }

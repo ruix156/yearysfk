@@ -30,8 +30,8 @@ $data = [
 ];
 try {
     $str = Charge::run(Config::ALI_CHANNEL_QR, $config, $data);
-} catch (PayException $e) {
-    echo $e->errorMessage();
+} catch (Exception $e) {
+    echo $e->getMessage();
     exit;
 }
 
