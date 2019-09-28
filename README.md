@@ -7,7 +7,7 @@
 本程序免费免费下载使用，请勿购买市面上魔改版本！！       
 
 ### 如果您有更高的需求？请尝试购买我们的专业版
-专业版地址：[http://www.shanhufk.com](http://www.shanhufk.com)  
+专业版地址：[http://demo.shanhufk.com](http://demo.shanhufk.com)  
 购买联系方式：QQ：53331323  备注：购买专业版    
 
 ### 程序使用要求？
